@@ -4,7 +4,7 @@ Hi, I'm Pranav — a passionate Software Developer, currently focused on AI proj
 - 🔭 I’m currently working on: 
   - 📌 Real Estate AI Chatbot (RAG)
   - 📌 Deepfake Detection System
-  - 📌 Agriculture Portal using ML and APIs
+  - 📌 Agriculture Portal using ML
 
 - 🌱 I’m learning: 
   - System Design | DSA | LLM Fine-tuning | LangChain | LlamaIndex
